@@ -1,4 +1,4 @@
-# VTK_Examples
+# VTK Examples
 Sample code for VTK (The Visualization Toolkit).  
 See the Readme in each directory for more information.
 
